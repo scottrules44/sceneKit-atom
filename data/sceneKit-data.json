@@ -212,763 +212,763 @@
     },
     {
         "displayText": "x",
-        "type": "attribute",
+        "type": "table",
         "description": "x node movement",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "x"
     },
     {
         "displayText": "y",
-        "type": "attribute",
+        "type": "table",
         "description": "x node movement",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "y"
     },
     {
         "displayText": "z",
-        "type": "attribute",
+        "type": "table",
         "description": "z node movement",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "z"
     },
     {
         "displayText": "xScale",
-        "type": "attribute",
+        "type": "table",
         "description": "x node scale",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "xScale"
     },
     {
         "displayText": "yScale",
-        "type": "attribute",
+        "type": "table",
         "description": "y node scale",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "yScale"
     },
     {
         "displayText": "zScale",
-        "type": "attribute",
+        "type": "table",
         "description": "z node scale",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "zScale"
     },
     {
         "displayText": "rotationX",
-        "type": "attribute",
+        "type": "table",
         "description": "x node rotation",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "rotationX"
     },
     {
         "displayText": "rotationY",
-        "type": "attribute",
+        "type": "table",
         "description": "y node rotation",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "rotationY"
     },
     {
         "displayText": "rotationZ",
-        "type": "attribute",
+        "type": "table",
         "description": "z node rotation",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "rotationZ"
     },
     {
         "displayText": "castShadows",
-        "type": "attribute",
+        "type": "table",
         "description": "should cast shadows",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "castShadows"
     },
     {
         "displayText": "alpha",
-        "type": "attribute",
+        "type": "table",
         "description": "alpha on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "alpha"
     },
     {
         "displayText": "nodeType",
-        "type": "attribute",
+        "type": "table",
         "description": "type on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "nodeType"
     },
     {
         "displayText": "widthSegmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "width segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "widthSegmentCount"
     },
     {
         "displayText": "heightSegmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "height segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "heightSegmentCount"
     },
     {
         "displayText": "cornerRadius",
-        "type": "attribute",
+        "type": "table",
         "description": "corner radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "cornerRadius"
     },
     {
         "displayText": "cornerSegmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "corner segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "cornerSegmentCount"
     },
     {
         "displayText": "cornerSegmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "corner segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "cornerSegmentCount"
     },
     {
         "displayText": "outerRadius",
-        "type": "attribute",
+        "type": "table",
         "description": "outer radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "outerRadius"
     },
     {
         "displayText": "innerRadius",
-        "type": "attribute",
+        "type": "table",
         "description": "inner radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "innerRadius"
     },
     {
         "displayText": "height",
-        "type": "attribute",
+        "type": "table",
         "description": "height on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "height"
     },
     {
         "displayText": "width",
-        "type": "attribute",
+        "type": "table",
         "description": "width on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "height"
     },
     {
         "displayText": "length",
-        "type": "attribute",
+        "type": "table",
         "description": "width on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "length"
     },
     {
         "displayText": "radialSegmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "radial segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "radialSegmentCount"
     },
     {
         "displayText": "ringRadius",
-        "type": "attribute",
+        "type": "table",
         "description": "ring radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "ringRadius"
     },
     {
         "displayText": "pipeRadius",
-        "type": "attribute",
+        "type": "table",
         "description": "pipe radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "pipeRadius"
     },
     {
         "displayText": "ringSegmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "ring segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "ringSegmentCount"
     },
     {
         "displayText": "pipeSegmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "pipe segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "pipeSegmentCount"
     },
     {
         "displayText": "lengthSegmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "length segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "lengthSegmentCount"
     },
     {
         "displayText": "radius",
-        "type": "attribute",
+        "type": "table",
         "description": "radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "radius"
     },
     {
         "displayText": "geodesic",
-        "type": "attribute",
+        "type": "table",
         "description": "geodesic on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "geodesic"
     },
     {
         "displayText": "segmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "segmentCount"
     },
     {
         "displayText": "capSegmentCount",
-        "type": "attribute",
+        "type": "table",
         "description": "cap segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "capSegmentCount"
     },
     {
         "displayText": "topRadius",
-        "type": "attribute",
+        "type": "table",
         "description": "top radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "topRadius"
     },
     {
         "displayText": "bottomRadius",
-        "type": "attribute",
+        "type": "table",
         "description": "bottom radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "bottomRadius"
     },
     {
         "displayText": "alignment",
-        "type": "attribute",
+        "type": "table",
         "description": "alignment on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "alignment"
     },
     {
         "displayText": "truncation",
-        "type": "attribute",
+        "type": "table",
         "description": "truncation on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "truncation"
     },
     {
         "displayText": "wrapped",
-        "type": "attribute",
+        "type": "table",
         "description": "wrapped on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "wrapped"
     },
     {
         "displayText": "flatness",
-        "type": "attribute",
+        "type": "table",
         "description": "flatness on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "flatness"
     },
     {
         "displayText": "chamferRadius",
-        "type": "attribute",
+        "type": "table",
         "description": "chamferRadius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "chamferRadius"
     },
     {
         "displayText": "text",
-        "type": "attribute",
+        "type": "table",
         "description": "text on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "text"
     },
     {
         "displayText": "extrusionDepth",
-        "type": "attribute",
+        "type": "table",
         "description": "extrusion depth on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "extrusionDepth"
     },
     {
         "displayText": "reflectivity",
-        "type": "attribute",
+        "type": "table",
         "description": "reflectivity on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "reflectivity"
     },
     {
         "displayText": "reflectionFalloffEnd",
-        "type": "attribute",
+        "type": "table",
         "description": "reflection falloff end on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "reflectionFalloffEnd"
     },
     {
         "displayText": "reflectionFalloffStart",
-        "type": "attribute",
+        "type": "table",
         "description": "reflection falloff start on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "reflectionFalloffStart"
     },
     {
         "displayText": "reflectionResolutionScaleFactor",
-        "type": "attribute",
+        "type": "table",
         "description": "reflection resolution scale factor on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "reflectionResolutionScaleFactor"
     },
     {
         "displayText": "zNear",
-        "type": "attribute",
+        "type": "table",
         "description": "z near on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "zNear"
     },
     {
         "displayText": "zFar",
-        "type": "attribute",
+        "type": "table",
         "description": "z far on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "zFar"
     },
     {
         "displayText": "shadowBias",
-        "type": "attribute",
+        "type": "table",
         "description": "shadow bias on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "shadowBias"
     },
     {
         "displayText": "shadowMode",
-        "type": "attribute",
+        "type": "table",
         "description": "shadow mode on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "shadowMode"
     },
     {
         "displayText": "shadowSampleCount",
-        "type": "attribute",
+        "type": "table",
         "description": "shadow sample count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "shadowSampleCount"
     },
     {
         "displayText": "shadowMapSizeWidth",
-        "type": "attribute",
+        "type": "table",
         "description": "shadow map size width on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "shadowMapSizeWidth"
     },
     {
         "displayText": "shadowMapSizeHeight",
-        "type": "attribute",
+        "type": "table",
         "description": "shadow map size height on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "shadowMapSizeHeight"
     },
     {
         "displayText": "lightType",
-        "type": "attribute",
+        "type": "table",
         "description": "light type on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "lightType"
     },
     {
         "displayText": "temperature",
-        "type": "attribute",
+        "type": "table",
         "description": "temperature on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "temperature"
     },
     {
         "displayText": "intensity",
-        "type": "attribute",
+        "type": "table",
         "description": "intensity on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "intensity"
     },
     {
         "displayText": "attenuationStartDistance",
-        "type": "attribute",
+        "type": "table",
         "description": "attenuation start distance on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "attenuationStartDistance"
     },
     {
         "displayText": "attenuationEndDistance",
-        "type": "attribute",
+        "type": "table",
         "description": "attenuation end distance on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "attenuationEndDistance"
     },
     {
         "displayText": "attenuationFalloffExponent",
-        "type": "attribute",
+        "type": "table",
         "description": "attenuation falloff exponent on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "attenuationFalloffExponent"
     },
     {
         "displayText": "spotInnerAngle",
-        "type": "attribute",
+        "type": "table",
         "description": "spot inner angle on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "spotInnerAngle"
     },
     {
         "displayText": "spotOuterAngle",
-        "type": "attribute",
+        "type": "table",
         "description": "spot outer angle on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
         "snippet": "spotOuterAngle"
     },
     {
         "displayText": "emissionDuration",
-        "type": "attribute",
+        "type": "table",
         "description": "emission duration on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "emissionDuration"
     },
     {
         "displayText": "emissionDurationVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "emission duration variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "emissionDurationVariation"
     },
     {
         "displayText": "idleDuration",
-        "type": "attribute",
+        "type": "table",
         "description": "idle duration on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "idleDuration"
     },
     {
         "displayText": "idleDurationVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "idle duration variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "idleDuration"
     },
     {
         "displayText": "loops",
-        "type": "attribute",
+        "type": "table",
         "description": "loops on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "loops"
     },
     {
         "displayText": "warmupDuration",
-        "type": "attribute",
+        "type": "table",
         "description": "warmup duration on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "warmupDuration"
     },
     {
         "displayText": "birthRate",
-        "type": "attribute",
+        "type": "table",
         "description": "birth rate on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "birthRate"
     },
     {
         "displayText": "birthRateVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "birth rate variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "birthRateVariation"
     },
     {
         "displayText": "emittingDirectionX",
-        "type": "attribute",
+        "type": "table",
         "description": "emitting direction x on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "emittingDirectionX"
     },
     {
         "displayText": "emittingDirectionY",
-        "type": "attribute",
+        "type": "table",
         "description": "emitting direction y on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "emittingDirectionY"
     },
     {
         "displayText": "emittingDirectionZ",
-        "type": "attribute",
+        "type": "table",
         "description": "emitting direction z on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "emittingDirectionZ"
     },
     {
         "displayText": "spreadingAngle",
-        "type": "attribute",
+        "type": "table",
         "description": "spreading angle on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "spreadingAngle"
     },
     {
         "displayText": "particleAngle",
-        "type": "attribute",
+        "type": "table",
         "description": "particle angle on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleAngle"
     },
     {
         "displayText": "particleAngleVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "particle angle variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleAngleVariation"
     },
     {
         "displayText": "particleVelocity",
-        "type": "attribute",
+        "type": "table",
         "description": "particle velocity on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleVelocity"
     },
     {
         "displayText": "particleVelocityVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "particle velocity variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleVelocityVariation"
     },
     {
         "displayText": "particleAngularVelocity",
-        "type": "attribute",
+        "type": "table",
         "description": "particle angular velocity on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleAngularVelocity"
     },
     {
         "displayText": "particleAngularVelocityVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "particle angular velocity variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleAngularVelocity"
     },
     {
         "displayText": "particleLifeSpan",
-        "type": "attribute",
+        "type": "table",
         "description": "particle life span on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleLifeSpan"
     },
     {
         "displayText": "particleLifeSpanVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "particle life span variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleLifeSpanVariation"
     },
     {
         "displayText": "particleSize",
-        "type": "attribute",
+        "type": "table",
         "description": "size on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleSize"
     },
     {
         "displayText": "particleSizeVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "size variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleSizeVariation"
     },
     {
         "displayText": "fresnelExponent",
-        "type": "attribute",
+        "type": "table",
         "description": "fresnel exponent on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "fresnelExponent"
     },
     {
         "displayText": "stretchFactor",
-        "type": "attribute",
+        "type": "table",
         "description": "stretch factort on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "stretchFactor"
     },
     {
         "displayText": "imageSequenceRowCount",
-        "type": "attribute",
+        "type": "table",
         "description": "image sequence row count on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "imageSequenceRowCount"
     },
     {
         "displayText": "imageSequenceColumnCount",
-        "type": "attribute",
+        "type": "table",
         "description": "image sequence column count on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "imageSequenceColumnCount"
     },
     {
         "displayText": "imageSequenceInitialFrame",
-        "type": "attribute",
+        "type": "table",
         "description": "image sequence initial frame on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "imageSequenceInitialFrame"
     },
     {
         "displayText": "imageSequenceInitialFrameVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "image sequence initial variation frame on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "imageSequenceInitialFrameVariation"
     },
     {
         "displayText": "imageSequenceFrameRate",
-        "type": "attribute",
+        "type": "table",
         "description": "image sequence frame rate on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "imageSequenceFrameRate"
     },
     {
         "displayText": "imageSequenceFrameRateVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "image sequence frame rate variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "imageSequenceFrameRateVariation"
     },
     {
         "displayText": "imageSequenceAnimationMode",
-        "type": "attribute",
+        "type": "table",
         "description": "image sequence animation mode on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "imageSequenceAnimationMode"
     },
     {
         "displayText": "affectedByGravity",
-        "type": "attribute",
+        "type": "table",
         "description": "affected by gravity on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "affectedByGravity"
     },
     {
         "displayText": "particleDiesOnCollision",
-        "type": "attribute",
+        "type": "table",
         "description": "particle dies on collision on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleDiesOnCollision"
     },
     {
         "displayText": "accelerationX",
-        "type": "attribute",
+        "type": "table",
         "description": "acceleration x on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "accelerationX"
     },
     {
         "displayText": "accelerationY",
-        "type": "attribute",
+        "type": "table",
         "description": "acceleration y on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "accelerationY"
     },
     {
         "displayText": "accelerationZ",
-        "type": "attribute",
+        "type": "table",
         "description": "acceleration z on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "accelerationZ"
     },
     {
         "displayText": "dampingFactor",
-        "type": "attribute",
+        "type": "table",
         "description": "damping factor on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "dampingFactor"
     },
     {
         "displayText": "particleMass",
-        "type": "attribute",
+        "type": "table",
         "description": "particle mass on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleMass"
     },
     {
         "displayText": "particleMassVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "particle mass variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleMassVariation"
     },
     {
         "displayText": "particleCharge",
-        "type": "attribute",
+        "type": "table",
         "description": "particle charge on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleCharge"
     },
     {
         "displayText": "particleChargeVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "particle charge variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleChargeVariation"
     },
     {
         "displayText": "particleBounceVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "particle bounce on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleBounce"
     },
     {
         "displayText": "particleFriction",
-        "type": "attribute",
+        "type": "table",
         "description": "particle friction on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleFriction"
     },
     {
         "displayText": "particleFrictionVariation",
-        "type": "attribute",
+        "type": "table",
         "description": "particle friction variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "particleFrictionVariation"
     },
     {
         "displayText": "blendMode",
-        "type": "attribute",
+        "type": "table",
         "description": "blend mode on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "blendMode"
     },
     {
         "displayText": "orientationMode",
-        "type": "attribute",
+        "type": "table",
         "description": "orientation mode on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "orientationMode"
     },
     {
         "displayText": "sortingMode",
-        "type": "attribute",
+        "type": "table",
         "description": "sorting mode on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "sortingMode"
     },
     {
         "displayText": "lightingEnabled",
-        "type": "attribute",
+        "type": "table",
         "description": "lighting enabled on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "lightingEnabled"
     },
     {
         "displayText": "blackPassEnabled",
-        "type": "attribute",
+        "type": "table",
         "description": "black pass enabled on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
         "snippet": "blackPassEnabled"
