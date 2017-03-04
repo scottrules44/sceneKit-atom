@@ -1,3 +1,4 @@
+
 [
     {
         "displayText": "sceneKit.init()",
@@ -210,767 +211,767 @@
         "snippet": "sceneKit.isEqual(nodeA, nodeB)"
     },
     {
-        "displayText": ".x",
+        "displayText": "x",
         "type": "property",
         "description": "x node movement",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".x"
+        "snippet": "x"
     },
     {
-        "displayText": ".y",
+        "displayText": "y",
         "type": "property",
         "description": "x node movement",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".y"
+        "snippet": "y"
     },
     {
-        "displayText": ".z",
+        "displayText": "z",
         "type": "property",
         "description": "z node movement",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".z"
+        "snippet": "z"
     },
     {
-        "displayText": ".xScale",
+        "displayText": "xScale",
         "type": "property",
         "description": "x node scale",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".xScale"
+        "snippet": "xScale"
     },
     {
-        "displayText": ".yScale",
+        "displayText": "yScale",
         "type": "property",
         "description": "y node scale",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".yScale"
+        "snippet": "yScale"
     },
     {
-        "displayText": ".zScale",
+        "displayText": "zScale",
         "type": "property",
         "description": "z node scale",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".zScale"
+        "snippet": "zScale"
     },
     {
-        "displayText": ".rotationX",
+        "displayText": "rotationX",
         "type": "property",
         "description": "x node rotation",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".rotationX"
+        "snippet": "rotationX"
     },
     {
-        "displayText": ".rotationY",
+        "displayText": "rotationY",
         "type": "property",
         "description": "y node rotation",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".rotationY"
+        "snippet": "rotationY"
     },
     {
-        "displayText": ".rotationZ",
+        "displayText": "rotationZ",
         "type": "property",
         "description": "z node rotation",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".rotationZ"
+        "snippet": "rotationZ"
     },
     {
-        "displayText": ".castShadows",
+        "displayText": "castShadows",
         "type": "property",
         "description": "should cast shadows",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".castShadows"
+        "snippet": "castShadows"
     },
     {
-        "displayText": ".alpha",
+        "displayText": "alpha",
         "type": "property",
         "description": "alpha on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".alpha"
+        "snippet": "alpha"
     },
     {
-        "displayText": ".nodeType",
+        "displayText": "nodeType",
         "type": "property",
         "description": "type on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".nodeType"
+        "snippet": "nodeType"
     },
     {
-        "displayText": ".widthSegmentCount",
+        "displayText": "widthSegmentCount",
         "type": "property",
         "description": "width segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".widthSegmentCount"
+        "snippet": "widthSegmentCount"
     },
     {
-        "displayText": ".heightSegmentCount",
+        "displayText": "heightSegmentCount",
         "type": "property",
         "description": "height segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".heightSegmentCount"
+        "snippet": "heightSegmentCount"
     },
     {
-        "displayText": ".cornerRadius",
+        "displayText": "cornerRadius",
         "type": "property",
         "description": "corner radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".cornerRadius"
+        "snippet": "cornerRadius"
     },
     {
-        "displayText": ".cornerSegmentCount",
+        "displayText": "cornerSegmentCount",
         "type": "property",
         "description": "corner segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".cornerSegmentCount"
+        "snippet": "cornerSegmentCount"
     },
     {
-        "displayText": ".cornerSegmentCount",
+        "displayText": "cornerSegmentCount",
         "type": "property",
         "description": "corner segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".cornerSegmentCount"
+        "snippet": "cornerSegmentCount"
     },
     {
-        "displayText": ".outerRadius",
+        "displayText": "outerRadius",
         "type": "property",
         "description": "outer radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".outerRadius"
+        "snippet": "outerRadius"
     },
     {
-        "displayText": ".innerRadius",
+        "displayText": "innerRadius",
         "type": "property",
         "description": "inner radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".innerRadius"
+        "snippet": "innerRadius"
     },
     {
-        "displayText": ".height",
+        "displayText": "height",
         "type": "property",
         "description": "height on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".height"
+        "snippet": "height"
     },
     {
-        "displayText": ".width",
+        "displayText": "width",
         "type": "property",
         "description": "width on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".height"
+        "snippet": "height"
     },
     {
-        "displayText": ".length",
+        "displayText": "length",
         "type": "property",
         "description": "width on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".length"
+        "snippet": "length"
     },
     {
-        "displayText": ".radialSegmentCount",
+        "displayText": "radialSegmentCount",
         "type": "property",
         "description": "radial segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".radialSegmentCount"
+        "snippet": "radialSegmentCount"
     },
     {
-        "displayText": ".ringRadius",
+        "displayText": "ringRadius",
         "type": "property",
         "description": "ring radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".ringRadius"
+        "snippet": "ringRadius"
     },
     {
-        "displayText": ".pipeRadius",
+        "displayText": "pipeRadius",
         "type": "property",
         "description": "pipe radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".pipeRadius"
+        "snippet": "pipeRadius"
     },
     {
-        "displayText": ".ringSegmentCount",
+        "displayText": "ringSegmentCount",
         "type": "property",
         "description": "ring segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".ringSegmentCount"
+        "snippet": "ringSegmentCount"
     },
     {
-        "displayText": ".pipeSegmentCount",
+        "displayText": "pipeSegmentCount",
         "type": "property",
         "description": "pipe segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".pipeSegmentCount"
+        "snippet": "pipeSegmentCount"
     },
     {
-        "displayText": ".lengthSegmentCount",
+        "displayText": "lengthSegmentCount",
         "type": "property",
         "description": "length segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".lengthSegmentCount"
+        "snippet": "lengthSegmentCount"
     },
     {
-        "displayText": ".radius",
+        "displayText": "radius",
         "type": "property",
         "description": "radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".radius"
+        "snippet": "radius"
     },
     {
-        "displayText": ".geodesic",
+        "displayText": "geodesic",
         "type": "property",
         "description": "geodesic on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".geodesic"
+        "snippet": "geodesic"
     },
     {
-        "displayText": ".segmentCount",
+        "displayText": "segmentCount",
         "type": "property",
         "description": "segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".segmentCount"
+        "snippet": "segmentCount"
     },
     {
-        "displayText": ".capSegmentCount",
+        "displayText": "capSegmentCount",
         "type": "property",
         "description": "cap segment count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".capSegmentCount"
+        "snippet": "capSegmentCount"
     },
     {
-        "displayText": ".topRadius",
+        "displayText": "topRadius",
         "type": "property",
         "description": "top radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".topRadius"
+        "snippet": "topRadius"
     },
     {
-        "displayText": ".bottomRadius",
+        "displayText": "bottomRadius",
         "type": "property",
         "description": "bottom radius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".bottomRadius"
+        "snippet": "bottomRadius"
     },
     {
-        "displayText": ".alignment",
+        "displayText": "alignment",
         "type": "property",
         "description": "alignment on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".alignment"
+        "snippet": "alignment"
     },
     {
-        "displayText": ".truncation",
+        "displayText": "truncation",
         "type": "property",
         "description": "truncation on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".truncation"
+        "snippet": "truncation"
     },
     {
-        "displayText": ".wrapped",
+        "displayText": "wrapped",
         "type": "property",
         "description": "wrapped on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".wrapped"
+        "snippet": "wrapped"
     },
     {
-        "displayText": ".flatness",
+        "displayText": "flatness",
         "type": "property",
         "description": "flatness on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".flatness"
+        "snippet": "flatness"
     },
     {
-        "displayText": ".chamferRadius",
+        "displayText": "chamferRadius",
         "type": "property",
         "description": "chamferRadius on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".chamferRadius"
+        "snippet": "chamferRadius"
     },
     {
-        "displayText": ".text",
+        "displayText": "text",
         "type": "property",
         "description": "text on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".text"
+        "snippet": "text"
     },
     {
-        "displayText": ".extrusionDepth",
+        "displayText": "extrusionDepth",
         "type": "property",
         "description": "extrusion depth on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".extrusionDepth"
+        "snippet": "extrusionDepth"
     },
     {
-        "displayText": ".reflectivity",
+        "displayText": "reflectivity",
         "type": "property",
         "description": "reflectivity on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".reflectivity"
+        "snippet": "reflectivity"
     },
     {
-        "displayText": ".reflectionFalloffEnd",
+        "displayText": "reflectionFalloffEnd",
         "type": "property",
         "description": "reflection falloff end on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".reflectionFalloffEnd"
+        "snippet": "reflectionFalloffEnd"
     },
     {
-        "displayText": ".reflectionFalloffStart",
+        "displayText": "reflectionFalloffStart",
         "type": "property",
         "description": "reflection falloff start on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".reflectionFalloffStart"
+        "snippet": "reflectionFalloffStart"
     },
     {
-        "displayText": ".reflectionResolutionScaleFactor",
+        "displayText": "reflectionResolutionScaleFactor",
         "type": "property",
         "description": "reflection resolution scale factor on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".reflectionResolutionScaleFactor"
+        "snippet": "reflectionResolutionScaleFactor"
     },
     {
-        "displayText": ".zNear",
+        "displayText": "zNear",
         "type": "property",
         "description": "z near on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".zNear"
+        "snippet": "zNear"
     },
     {
-        "displayText": ".zFar",
+        "displayText": "zFar",
         "type": "property",
         "description": "z far on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".zFar"
+        "snippet": "zFar"
     },
     {
-        "displayText": ".shadowBias",
+        "displayText": "shadowBias",
         "type": "property",
         "description": "shadow bias on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".shadowBias"
+        "snippet": "shadowBias"
     },
     {
-        "displayText": ".shadowMode",
+        "displayText": "shadowMode",
         "type": "property",
         "description": "shadow mode on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".shadowMode"
+        "snippet": "shadowMode"
     },
     {
-        "displayText": ".shadowSampleCount",
+        "displayText": "shadowSampleCount",
         "type": "property",
         "description": "shadow sample count on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".shadowSampleCount"
+        "snippet": "shadowSampleCount"
     },
     {
-        "displayText": ".shadowMapSizeWidth",
+        "displayText": "shadowMapSizeWidth",
         "type": "property",
         "description": "shadow map size width on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".shadowMapSizeWidth"
+        "snippet": "shadowMapSizeWidth"
     },
     {
-        "displayText": ".shadowMapSizeHeight",
+        "displayText": "shadowMapSizeHeight",
         "type": "property",
         "description": "shadow map size height on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".shadowMapSizeHeight"
+        "snippet": "shadowMapSizeHeight"
     },
     {
-        "displayText": ".lightType",
+        "displayText": "lightType",
         "type": "property",
         "description": "light type on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".lightType"
+        "snippet": "lightType"
     },
     {
-        "displayText": ".temperature",
+        "displayText": "temperature",
         "type": "property",
         "description": "temperature on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".temperature"
+        "snippet": "temperature"
     },
     {
-        "displayText": ".intensity",
+        "displayText": "intensity",
         "type": "property",
         "description": "intensity on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".intensity"
+        "snippet": "intensity"
     },
     {
-        "displayText": ".attenuationStartDistance",
+        "displayText": "attenuationStartDistance",
         "type": "property",
         "description": "attenuation start distance on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".attenuationStartDistance"
+        "snippet": "attenuationStartDistance"
     },
     {
-        "displayText": ".attenuationEndDistance",
+        "displayText": "attenuationEndDistance",
         "type": "property",
         "description": "attenuation end distance on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".attenuationEndDistance"
+        "snippet": "attenuationEndDistance"
     },
     {
-        "displayText": ".attenuationFalloffExponent",
+        "displayText": "attenuationFalloffExponent",
         "type": "property",
         "description": "attenuation falloff exponent on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".attenuationFalloffExponent"
+        "snippet": "attenuationFalloffExponent"
     },
     {
-        "displayText": ".spotInnerAngle",
+        "displayText": "spotInnerAngle",
         "type": "property",
         "description": "spot inner angle on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".spotInnerAngle"
+        "snippet": "spotInnerAngle"
     },
     {
-        "displayText": ".spotOuterAngle",
+        "displayText": "spotOuterAngle",
         "type": "property",
         "description": "spot outer angle on node",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
-        "snippet": ".spotOuterAngle"
+        "snippet": "spotOuterAngle"
     },
     {
-        "displayText": ".emissionDuration",
+        "displayText": "emissionDuration",
         "type": "property",
         "description": "emission duration on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".emissionDuration"
+        "snippet": "emissionDuration"
     },
     {
-        "displayText": ".emissionDurationVariation",
+        "displayText": "emissionDurationVariation",
         "type": "property",
         "description": "emission duration variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".emissionDurationVariation"
+        "snippet": "emissionDurationVariation"
     },
     {
-        "displayText": ".idleDuration",
+        "displayText": "idleDuration",
         "type": "property",
         "description": "idle duration on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".idleDuration"
+        "snippet": "idleDuration"
     },
     {
-        "displayText": ".idleDurationVariation",
+        "displayText": "idleDurationVariation",
         "type": "property",
         "description": "idle duration variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".idleDuration"
+        "snippet": "idleDuration"
     },
     {
-        "displayText": ".loops",
+        "displayText": "loops",
         "type": "property",
         "description": "loops on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".loops"
+        "snippet": "loops"
     },
     {
-        "displayText": ".warmupDuration",
+        "displayText": "warmupDuration",
         "type": "property",
         "description": "warmup duration on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".warmupDuration"
+        "snippet": "warmupDuration"
     },
     {
-        "displayText": ".birthRate",
+        "displayText": "birthRate",
         "type": "property",
         "description": "birth rate on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".birthRate"
+        "snippet": "birthRate"
     },
     {
-        "displayText": ".birthRateVariation",
+        "displayText": "birthRateVariation",
         "type": "property",
         "description": "birth rate variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".birthRateVariation"
+        "snippet": "birthRateVariation"
     },
     {
-        "displayText": ".emittingDirectionX",
+        "displayText": "emittingDirectionX",
         "type": "property",
         "description": "emitting direction x on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".emittingDirectionX"
+        "snippet": "emittingDirectionX"
     },
     {
-        "displayText": ".emittingDirectionY",
+        "displayText": "emittingDirectionY",
         "type": "property",
         "description": "emitting direction y on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".emittingDirectionY"
+        "snippet": "emittingDirectionY"
     },
     {
-        "displayText": ".emittingDirectionZ",
+        "displayText": "emittingDirectionZ",
         "type": "property",
         "description": "emitting direction z on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".emittingDirectionZ"
+        "snippet": "emittingDirectionZ"
     },
     {
-        "displayText": ".spreadingAngle",
+        "displayText": "spreadingAngle",
         "type": "property",
         "description": "spreading angle on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".spreadingAngle"
+        "snippet": "spreadingAngle"
     },
     {
-        "displayText": ".particleAngle",
+        "displayText": "particleAngle",
         "type": "property",
         "description": "particle angle on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleAngle"
+        "snippet": "particleAngle"
     },
     {
-        "displayText": ".particleAngleVariation",
+        "displayText": "particleAngleVariation",
         "type": "property",
         "description": "particle angle variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleAngleVariation"
+        "snippet": "particleAngleVariation"
     },
     {
-        "displayText": ".particleVelocity",
+        "displayText": "particleVelocity",
         "type": "property",
         "description": "particle velocity on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleVelocity"
+        "snippet": "particleVelocity"
     },
     {
-        "displayText": ".particleVelocityVariation",
+        "displayText": "particleVelocityVariation",
         "type": "property",
         "description": "particle velocity variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleVelocityVariation"
+        "snippet": "particleVelocityVariation"
     },
     {
-        "displayText": ".particleAngularVelocity",
+        "displayText": "particleAngularVelocity",
         "type": "property",
         "description": "particle angular velocity on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleAngularVelocity"
+        "snippet": "particleAngularVelocity"
     },
     {
-        "displayText": ".particleAngularVelocityVariation",
+        "displayText": "particleAngularVelocityVariation",
         "type": "property",
         "description": "particle angular velocity variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleAngularVelocity"
+        "snippet": "particleAngularVelocity"
     },
     {
-        "displayText": ".particleLifeSpan",
+        "displayText": "particleLifeSpan",
         "type": "property",
         "description": "particle life span on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleLifeSpan"
+        "snippet": "particleLifeSpan"
     },
     {
-        "displayText": ".particleLifeSpanVariation",
+        "displayText": "particleLifeSpanVariation",
         "type": "property",
         "description": "particle life span variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleLifeSpanVariation"
+        "snippet": "particleLifeSpanVariation"
     },
     {
-        "displayText": ".particleSize",
+        "displayText": "particleSize",
         "type": "property",
         "description": "size on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleSize"
+        "snippet": "particleSize"
     },
     {
-        "displayText": ".particleSizeVariation",
+        "displayText": "particleSizeVariation",
         "type": "property",
         "description": "size variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleSizeVariation"
+        "snippet": "particleSizeVariation"
     },
     {
-        "displayText": ".fresnelExponent",
+        "displayText": "fresnelExponent",
         "type": "property",
         "description": "fresnel exponent on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".fresnelExponent"
+        "snippet": "fresnelExponent"
     },
     {
-        "displayText": ".stretchFactor",
+        "displayText": "stretchFactor",
         "type": "property",
         "description": "stretch factort on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".stretchFactor"
+        "snippet": "stretchFactor"
     },
     {
-        "displayText": ".imageSequenceRowCount",
+        "displayText": "imageSequenceRowCount",
         "type": "property",
         "description": "image sequence row count on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".imageSequenceRowCount"
+        "snippet": "imageSequenceRowCount"
     },
     {
-        "displayText": ".imageSequenceColumnCount",
+        "displayText": "imageSequenceColumnCount",
         "type": "property",
         "description": "image sequence column count on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".imageSequenceColumnCount"
+        "snippet": "imageSequenceColumnCount"
     },
     {
-        "displayText": ".imageSequenceInitialFrame",
+        "displayText": "imageSequenceInitialFrame",
         "type": "property",
         "description": "image sequence initial frame on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".imageSequenceInitialFrame"
+        "snippet": "imageSequenceInitialFrame"
     },
     {
-        "displayText": ".imageSequenceInitialFrameVariation",
+        "displayText": "imageSequenceInitialFrameVariation",
         "type": "property",
         "description": "image sequence initial variation frame on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".imageSequenceInitialFrameVariation"
+        "snippet": "imageSequenceInitialFrameVariation"
     },
     {
-        "displayText": ".imageSequenceFrameRate",
+        "displayText": "imageSequenceFrameRate",
         "type": "property",
         "description": "image sequence frame rate on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".imageSequenceFrameRate"
+        "snippet": "imageSequenceFrameRate"
     },
     {
-        "displayText": ".imageSequenceFrameRateVariation",
+        "displayText": "imageSequenceFrameRateVariation",
         "type": "property",
         "description": "image sequence frame rate variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".imageSequenceFrameRateVariation"
+        "snippet": "imageSequenceFrameRateVariation"
     },
     {
-        "displayText": ".imageSequenceAnimationMode",
+        "displayText": "imageSequenceAnimationMode",
         "type": "property",
         "description": "image sequence animation mode on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".imageSequenceAnimationMode"
+        "snippet": "imageSequenceAnimationMode"
     },
     {
-        "displayText": ".affectedByGravity",
+        "displayText": "affectedByGravity",
         "type": "property",
         "description": "affected by gravity on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".affectedByGravity"
+        "snippet": "affectedByGravity"
     },
     {
-        "displayText": ".particleDiesOnCollision",
+        "displayText": "particleDiesOnCollision",
         "type": "property",
         "description": "particle dies on collision on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleDiesOnCollision"
+        "snippet": "particleDiesOnCollision"
     },
     {
-        "displayText": ".accelerationX",
+        "displayText": "accelerationX",
         "type": "property",
         "description": "acceleration x on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".accelerationX"
+        "snippet": "accelerationX"
     },
     {
-        "displayText": ".accelerationY",
+        "displayText": "accelerationY",
         "type": "property",
         "description": "acceleration y on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".accelerationY"
+        "snippet": "accelerationY"
     },
     {
-        "displayText": ".accelerationZ",
+        "displayText": "accelerationZ",
         "type": "property",
         "description": "acceleration z on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".accelerationZ"
+        "snippet": "accelerationZ"
     },
     {
-        "displayText": ".dampingFactor",
+        "displayText": "dampingFactor",
         "type": "property",
         "description": "damping factor on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".dampingFactor"
+        "snippet": "dampingFactor"
     },
     {
-        "displayText": ".particleMass",
+        "displayText": "particleMass",
         "type": "property",
         "description": "particle mass on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleMass"
+        "snippet": "particleMass"
     },
     {
-        "displayText": ".particleMassVariation",
+        "displayText": "particleMassVariation",
         "type": "property",
         "description": "particle mass variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleMassVariation"
+        "snippet": "particleMassVariation"
     },
     {
-        "displayText": ".particleCharge",
+        "displayText": "particleCharge",
         "type": "property",
         "description": "particle charge on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleCharge"
+        "snippet": "particleCharge"
     },
     {
-        "displayText": ".particleChargeVariation",
+        "displayText": "particleChargeVariation",
         "type": "property",
         "description": "particle charge variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleChargeVariation"
+        "snippet": "particleChargeVariation"
     },
     {
-        "displayText": ".particleBounceVariation",
+        "displayText": "particleBounceVariation",
         "type": "property",
         "description": "particle bounce on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleBounce"
+        "snippet": "particleBounce"
     },
     {
-        "displayText": ".particleFriction",
+        "displayText": "particleFriction",
         "type": "property",
         "description": "particle friction on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleFriction"
+        "snippet": "particleFriction"
     },
     {
-        "displayText": ".particleFrictionVariation",
+        "displayText": "particleFrictionVariation",
         "type": "property",
         "description": "particle friction variation on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".particleFrictionVariation"
+        "snippet": "particleFrictionVariation"
     },
     {
-        "displayText": ".blendMode",
+        "displayText": "blendMode",
         "type": "property",
         "description": "blend mode on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".blendMode"
+        "snippet": "blendMode"
     },
     {
-        "displayText": ".orientationMode",
+        "displayText": "orientationMode",
         "type": "property",
         "description": "orientation mode on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".orientationMode"
+        "snippet": "orientationMode"
     },
     {
-        "displayText": ".sortingMode",
+        "displayText": "sortingMode",
         "type": "property",
         "description": "sorting mode on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".sortingMode"
+        "snippet": "sortingMode"
     },
     {
-        "displayText": ".lightingEnabled",
+        "displayText": "lightingEnabled",
         "type": "property",
         "description": "lighting enabled on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".lightingEnabled"
+        "snippet": "lightingEnabled"
     },
     {
-        "displayText": ".blackPassEnabled",
+        "displayText": "blackPassEnabled",
         "type": "property",
         "description": "black pass enabled on particle",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
-        "snippet": ".blackPassEnabled"
+        "snippet": "blackPassEnabled"
     },
     {
         "displayText": "sceneKit.moveSceneKitToFront()",
