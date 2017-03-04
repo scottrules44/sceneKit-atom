@@ -1,0 +1,989 @@
+[
+    {
+        "displayText": "sceneKit.init()",
+        "type": "function",
+        "description": "start up scene kit",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "sceneKit.init()"
+    },
+    {
+        "displayText": "sceneKit.deinit()",
+        "type": "function",
+        "description": "stop scene kit",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "sceneKit.init()"
+    },
+    {
+        "displayText": "sceneKit.autoLighting(boolean)",
+        "type": "function",
+        "description": "enable auto lighting(boolean true = on, false = off)",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "sceneKit.autoLighting()"
+    },
+    {
+        "displayText": "sceneKit.cameraControl(boolean)",
+        "type": "function",
+        "description": "enable camera control on objects(boolean true = on, false = off)",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "sceneKit.cameraControl(boolean)"
+    },
+    {
+        "displayText": "sceneKit.setFps(number)",
+        "type": "function",
+        "description": "set frame rate for the the scene kit plugin. Note the default fps 30",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/setFps",
+        "snippet": "sceneKit.setFps(number)"
+    },
+    {
+        "displayText": "sceneKit.setBackgroundColor(red, green, blue, alpha)",
+        "type": "function",
+        "description": "set background color for the the scene kit plugin",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/setBackgroundColor",
+        "snippet": "sceneKit.setBackgroundColor(red, green, blue, alpha)"
+    },
+    {
+        "displayText": "sceneKit.debugMode(mode)",
+        "type": "function",
+        "description": "set debug mode in scene mode: \"none\", \"physicsShapes\", \"boundingBoxes\", \"lightInfluences\", \"lightExtents\", \"physicsFields\", or \"wireframe\"",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/debugMode",
+        "snippet": "sceneKit.debugMode(mode)"
+    },
+    {
+        "displayText": "sceneKit.cameraZ(zFar, zNear)",
+        "type": "function",
+        "description": "sets camera's near and far depth limit",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/cameraZ",
+        "snippet": "sceneKit.cameraZ(zFar, zNear)"
+    },
+    {
+        "displayText": "sceneKit.cameraFov(xFov, yFov)",
+        "type": "function",
+        "description": "sets cameras field of view, in degrees, on the vertical and horizontal axis",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/cameraFov",
+        "snippet": "sceneKit.cameraFov(xFov, yFov)"
+    },
+    {
+        "displayText": "sceneKit.getCameraNode()",
+        "type": "function",
+        "description": "get camera node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/getCameraNode",
+        "snippet": "sceneKit.getCameraNode()"
+    },
+    {
+        "displayText": "sceneKit.newLight(lightType)",
+        "type": "function",
+        "description": "creates a new light object that can be moved and adjusted: \"ambient\", \"omni\", \"directional\", \"spot\", \"IES\",or \"probe\"",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newLight",
+        "snippet": "sceneKit.newLight(lightType)"
+    },
+    {
+        "displayText": "sceneKit.newBox(width, height, length)",
+        "type": "function",
+        "description": "creates a new box/cube object that can be moved and adjusted",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newBox",
+        "snippet": "sceneKit.newBox(width, height, length)"
+    },
+    {
+        "displayText": "sceneKit.newModel(filePath, nodeName)",
+        "type": "function",
+        "description": "display and adjust models",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newModel",
+        "snippet": "sceneKit.newModel(filePath, nodeName)"
+    },
+    {
+        "displayText": "sceneKit.newFloor()",
+        "type": "function",
+        "description": "make an infinite plane",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newFloor",
+        "snippet": "sceneKit.newFloor()"
+    },
+    {
+        "displayText": "sceneKit.newText(text, extrusionDepth)",
+        "type": "function",
+        "description": "a geometry based on a string of text",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newText",
+        "snippet": "sceneKit.newText(text, extrusionDepth)"
+    },
+    {
+        "displayText": "sceneKit.newCone(topRadius, bottomRadius, height)",
+        "type": "function",
+        "description": "creates a new cone object that can be moved and adjusted",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newCone",
+        "snippet": "sceneKit.newCone(topRadius, bottomRadius, height)"
+    },
+    {
+        "displayText": "sceneKit.newCapsule(radius, height)",
+        "type": "function",
+        "description": "creates a new capsule object that can be moved and adjusted",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newCapsule",
+        "snippet": "sceneKit.newCapsule(radius, height)"
+    },
+    {
+        "displayText": "sceneKit.newCylinder(radius, height)",
+        "type": "function",
+        "description": "creates a new cylinder object that can be moved and adjusted",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newCylinder",
+        "snippet": "sceneKit.newCylinder(radius, height)"
+    },
+    {
+        "displayText": "sceneKit.newPyramid(width, height, length)",
+        "type": "function",
+        "description": "creates a new pyramid object that can be moved and adjusted",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newPyramid",
+        "snippet": "sceneKit.newPyramid(width, height, length)"
+    },
+    {
+        "displayText": "sceneKit.newSphere(radius)",
+        "type": "function",
+        "description": "creates a new sphere object that can be moved and adjusted",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newCylinder",
+        "snippet": "sceneKit.newSphere(radius)"
+    },
+    {
+        "displayText": "sceneKit.newTorus(ringRadius,pipeRadius)",
+        "type": "function",
+        "description": "creates a new sphere object that can be moved and adjusted",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newTorus",
+        "snippet": "sceneKit.newTorus(ringRadius,pipeRadius)"
+    },
+    {
+        "displayText": "sceneKit.newTube(innerRadius, outerRadius, height)",
+        "type": "function",
+        "description": "creates a new tube object that can be moved and adjusted",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newTube",
+        "snippet": "sceneKit.newTube(innerRadius, outerRadius, height)"
+    },
+    {
+        "displayText": "sceneKit.newPlane(width, height)",
+        "type": "function",
+        "description": "creates a new plane object that can be moved and adjusted",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newPlane",
+        "snippet": "sceneKit.newPlane(width, height)"
+    },
+    {
+        "displayText": "sceneKit.newNode()",
+        "type": "function",
+        "description": "creates a new blank node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newNode",
+        "snippet": "sceneKit.newNode()"
+    },
+    {
+        "displayText": "sceneKit.newParticleSystem(directory, fileName)",
+        "type": "function",
+        "description": "creates a new blank particle system or one from a scene kit particle file",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticalSystem",
+        "snippet": "sceneKit.newParticalSystem(directory, fileName)"
+    },
+    {
+        "displayText": "sceneKit.addPhysics(node, bodyType)",
+        "type": "function",
+        "description": "adds physics body to nodes",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/addPhysics",
+        "snippet": "sceneKit.addPhysics(node, bodyType)"
+    },
+    {
+        "displayText": "sceneKit.setGravity(x,y,z)",
+        "type": "function",
+        "description": "set gravity for physics world",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/setGravity",
+        "snippet": "sceneKit.setGravity(x,y,z)"
+    },
+    {
+        "displayText": "sceneKit.checkCollison(nodeA, nodeB)",
+        "type": "function",
+        "description": "check collison between two physics nodes",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/checkCollison",
+        "snippet": "sceneKit.checkCollison(nodeA, nodeB)"
+    },
+    {
+        "displayText": "sceneKit.searchForNodeAtCoords(x,y)",
+        "type": "function",
+        "description": "check nodes at a corona point",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/searchForNodeAtCoords",
+        "snippet": "sceneKit.searchForNodeAtCoords(x,y)"
+    },
+    {
+        "displayText": "sceneKit.isEqual(nodeA, nodeB)",
+        "type": "function",
+        "description": "check node if equals the other",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/isEqual",
+        "snippet": "sceneKit.isEqual(nodeA, nodeB)"
+    },
+    {
+        "displayText": "node.x",
+        "type": "property",
+        "description": "x node movement",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.x"
+    },
+    {
+        "displayText": "node.y",
+        "type": "property",
+        "description": "x node movement",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.y"
+    },
+    {
+        "displayText": "node.z",
+        "type": "property",
+        "description": "z node movement",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.z"
+    },
+    {
+        "displayText": "node.xScale",
+        "type": "property",
+        "description": "x node scale",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.xScale"
+    },
+    {
+        "displayText": "node.yScale",
+        "type": "property",
+        "description": "y node scale",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.yScale"
+    },
+    {
+        "displayText": "node.zScale",
+        "type": "property",
+        "description": "z node scale",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.zScale"
+    },
+    {
+        "displayText": "node.rotationX",
+        "type": "property",
+        "description": "x node rotation",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.rotationX"
+    },
+    {
+        "displayText": "node.rotationY",
+        "type": "property",
+        "description": "y node rotation",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.rotationY"
+    },
+    {
+        "displayText": "node.rotationZ",
+        "type": "property",
+        "description": "z node rotation",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.rotationZ"
+    },
+    {
+        "displayText": "node.castShadows",
+        "type": "property",
+        "description": "should cast shadows",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.castShadows"
+    },
+    {
+        "displayText": "node.alpha",
+        "type": "property",
+        "description": "alpha on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.alpha"
+    },
+    {
+        "displayText": "node.nodeType",
+        "type": "property",
+        "description": "type on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.nodeType"
+    },
+    {
+        "displayText": "node.widthSegmentCount",
+        "type": "property",
+        "description": "width segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.widthSegmentCount"
+    },
+    {
+        "displayText": "node.heightSegmentCount",
+        "type": "property",
+        "description": "height segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.heightSegmentCount"
+    },
+    {
+        "displayText": "node.cornerRadius",
+        "type": "property",
+        "description": "corner radius on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.cornerRadius"
+    },
+    {
+        "displayText": "node.cornerSegmentCount",
+        "type": "property",
+        "description": "corner segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.cornerSegmentCount"
+    },
+    {
+        "displayText": "node.cornerSegmentCount",
+        "type": "property",
+        "description": "corner segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.cornerSegmentCount"
+    },
+    {
+        "displayText": "node.outerRadius",
+        "type": "property",
+        "description": "outer radius on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.outerRadius"
+    },
+    {
+        "displayText": "node.innerRadius",
+        "type": "property",
+        "description": "inner radius on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.innerRadius"
+    },
+    {
+        "displayText": "node.height",
+        "type": "property",
+        "description": "height on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.height"
+    },
+    {
+        "displayText": "node.width",
+        "type": "property",
+        "description": "width on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.height"
+    },
+    {
+        "displayText": "node.length",
+        "type": "property",
+        "description": "width on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.length"
+    },
+    {
+        "displayText": "node.radialSegmentCount",
+        "type": "property",
+        "description": "radial segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.radialSegmentCount"
+    },
+    {
+        "displayText": "node.ringRadius",
+        "type": "property",
+        "description": "ring radius on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.ringRadius"
+    },
+    {
+        "displayText": "node.pipeRadius",
+        "type": "property",
+        "description": "pipe radius on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.pipeRadius"
+    },
+    {
+        "displayText": "node.ringSegmentCount",
+        "type": "property",
+        "description": "ring segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.ringSegmentCount"
+    },
+    {
+        "displayText": "node.pipeSegmentCount",
+        "type": "property",
+        "description": "pipe segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.pipeSegmentCount"
+    },
+    {
+        "displayText": "node.lengthSegmentCount",
+        "type": "property",
+        "description": "length segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.lengthSegmentCount"
+    },
+    {
+        "displayText": "node.radius",
+        "type": "property",
+        "description": "radius on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.radius"
+    },
+    {
+        "displayText": "node.geodesic",
+        "type": "property",
+        "description": "geodesic on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.geodesic"
+    },
+    {
+        "displayText": "node.segmentCount",
+        "type": "property",
+        "description": "segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.segmentCount"
+    },
+    {
+        "displayText": "node.capSegmentCount",
+        "type": "property",
+        "description": "cap segment count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.capSegmentCount"
+    },
+    {
+        "displayText": "node.topRadius",
+        "type": "property",
+        "description": "top radius on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.topRadius"
+    },
+    {
+        "displayText": "node.bottomRadius",
+        "type": "property",
+        "description": "bottom radius on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.bottomRadius"
+    },
+    {
+        "displayText": "node.alignment",
+        "type": "property",
+        "description": "alignment on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.alignment"
+    },
+    {
+        "displayText": "node.truncation",
+        "type": "property",
+        "description": "truncation on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.truncation"
+    },
+    {
+        "displayText": "node.wrapped",
+        "type": "property",
+        "description": "wrapped on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.wrapped"
+    },
+    {
+        "displayText": "node.flatness",
+        "type": "property",
+        "description": "flatness on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.flatness"
+    },
+    {
+        "displayText": "node.chamferRadius",
+        "type": "property",
+        "description": "chamferRadius on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.chamferRadius"
+    },
+    {
+        "displayText": "node.text",
+        "type": "property",
+        "description": "text on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.text"
+    },
+    {
+        "displayText": "node.extrusionDepth",
+        "type": "property",
+        "description": "extrusion depth on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.extrusionDepth"
+    },
+    {
+        "displayText": "node.reflectivity",
+        "type": "property",
+        "description": "reflectivity on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.reflectivity"
+    },
+    {
+        "displayText": "node.reflectionFalloffEnd",
+        "type": "property",
+        "description": "reflection falloff end on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.reflectionFalloffEnd"
+    },
+    {
+        "displayText": "node.reflectionFalloffStart",
+        "type": "property",
+        "description": "reflection falloff start on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.reflectionFalloffStart"
+    },
+    {
+        "displayText": "node.reflectionResolutionScaleFactor",
+        "type": "property",
+        "description": "reflection resolution scale factor on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.reflectionResolutionScaleFactor"
+    },
+    {
+        "displayText": "node.zNear",
+        "type": "property",
+        "description": "z near on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.zNear"
+    },
+    {
+        "displayText": "node.zFar",
+        "type": "property",
+        "description": "z far on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.zFar"
+    },
+    {
+        "displayText": "node.shadowBias",
+        "type": "property",
+        "description": "shadow bias on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.shadowBias"
+    },
+    {
+        "displayText": "node.shadowMode",
+        "type": "property",
+        "description": "shadow mode on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.shadowMode"
+    },
+    {
+        "displayText": "node.shadowSampleCount",
+        "type": "property",
+        "description": "shadow sample count on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.shadowSampleCount"
+    },
+    {
+        "displayText": "node.shadowMapSizeWidth",
+        "type": "property",
+        "description": "shadow map size width on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.shadowMapSizeWidth"
+    },
+    {
+        "displayText": "node.shadowMapSizeHeight",
+        "type": "property",
+        "description": "shadow map size height on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.shadowMapSizeHeight"
+    },
+    {
+        "displayText": "node.lightType",
+        "type": "property",
+        "description": "light type on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.lightType"
+    },
+    {
+        "displayText": "node.temperature",
+        "type": "property",
+        "description": "temperature on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.temperature"
+    },
+    {
+        "displayText": "node.intensity",
+        "type": "property",
+        "description": "intensity on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.intensity"
+    },
+    {
+        "displayText": "node.attenuationStartDistance",
+        "type": "property",
+        "description": "attenuation start distance on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.attenuationStartDistance"
+    },
+    {
+        "displayText": "node.attenuationEndDistance",
+        "type": "property",
+        "description": "attenuation end distance on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.attenuationEndDistance"
+    },
+    {
+        "displayText": "node.attenuationFalloffExponent",
+        "type": "property",
+        "description": "attenuation falloff exponent on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.attenuationFalloffExponent"
+    },
+    {
+        "displayText": "node.spotInnerAngle",
+        "type": "property",
+        "description": "spot inner angle on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.spotInnerAngle"
+    },
+    {
+        "displayText": "node.spotOuterAngle",
+        "type": "property",
+        "description": "spot outer angle on node",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/",
+        "snippet": "node.spotOuterAngle"
+    },
+    {
+        "displayText": "particle.emissionDuration",
+        "type": "property",
+        "description": "emission duration on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.emissionDuration"
+    },
+    {
+        "displayText": "particle.emissionDurationVariation",
+        "type": "property",
+        "description": "emission duration variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.emissionDurationVariation"
+    },
+    {
+        "displayText": "particle.idleDuration",
+        "type": "property",
+        "description": "idle duration on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.idleDuration"
+    },
+    {
+        "displayText": "particle.idleDurationVariation",
+        "type": "property",
+        "description": "idle duration variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.idleDuration"
+    },
+    {
+        "displayText": "particle.loops",
+        "type": "property",
+        "description": "loops on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.loops"
+    },
+    {
+        "displayText": "particle.warmupDuration",
+        "type": "property",
+        "description": "warmup duration on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.warmupDuration"
+    },
+    {
+        "displayText": "particle.birthRate",
+        "type": "property",
+        "description": "birth rate on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.birthRate"
+    },
+    {
+        "displayText": "particle.birthRateVariation",
+        "type": "property",
+        "description": "birth rate variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.birthRateVariation"
+    },
+    {
+        "displayText": "particle.emittingDirectionX",
+        "type": "property",
+        "description": "emitting direction x on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.emittingDirectionX"
+    },
+    {
+        "displayText": "particle.emittingDirectionY",
+        "type": "property",
+        "description": "emitting direction y on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.emittingDirectionY"
+    },
+    {
+        "displayText": "particle.emittingDirectionZ",
+        "type": "property",
+        "description": "emitting direction z on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.emittingDirectionZ"
+    },
+    {
+        "displayText": "particle.spreadingAngle",
+        "type": "property",
+        "description": "spreading angle on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.spreadingAngle"
+    },
+    {
+        "displayText": "particle.particleAngle",
+        "type": "property",
+        "description": "particle angle on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleAngle"
+    },
+    {
+        "displayText": "particle.particleAngleVariation",
+        "type": "property",
+        "description": "particle angle variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleAngleVariation"
+    },
+    {
+        "displayText": "particle.particleVelocity",
+        "type": "property",
+        "description": "particle velocity on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleVelocity"
+    },
+    {
+        "displayText": "particle.particleVelocityVariation",
+        "type": "property",
+        "description": "particle velocity variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleVelocityVariation"
+    },
+    {
+        "displayText": "particle.particleAngularVelocity",
+        "type": "property",
+        "description": "particle angular velocity on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleAngularVelocity"
+    },
+    {
+        "displayText": "particle.particleAngularVelocityVariation",
+        "type": "property",
+        "description": "particle angular velocity variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleAngularVelocity"
+    },
+    {
+        "displayText": "particle.particleLifeSpan",
+        "type": "property",
+        "description": "particle life span on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleLifeSpan"
+    },
+    {
+        "displayText": "particle.particleLifeSpanVariation",
+        "type": "property",
+        "description": "particle life span variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleLifeSpanVariation"
+    },
+    {
+        "displayText": "particle.particleSize",
+        "type": "property",
+        "description": "size on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleSize"
+    },
+    {
+        "displayText": "particle.particleSizeVariation",
+        "type": "property",
+        "description": "size variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleSizeVariation"
+    },
+    {
+        "displayText": "particle.fresnelExponent",
+        "type": "property",
+        "description": "fresnel exponent on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.fresnelExponent"
+    },
+    {
+        "displayText": "particle.stretchFactor",
+        "type": "property",
+        "description": "stretch factort on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.stretchFactor"
+    },
+    {
+        "displayText": "particle.imageSequenceRowCount",
+        "type": "property",
+        "description": "image sequence row count on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.imageSequenceRowCount"
+    },
+    {
+        "displayText": "particle.imageSequenceColumnCount",
+        "type": "property",
+        "description": "image sequence column count on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.imageSequenceColumnCount"
+    },
+    {
+        "displayText": "particle.imageSequenceInitialFrame",
+        "type": "property",
+        "description": "image sequence initial frame on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.imageSequenceInitialFrame"
+    },
+    {
+        "displayText": "particle.imageSequenceInitialFrameVariation",
+        "type": "property",
+        "description": "image sequence initial variation frame on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.imageSequenceInitialFrameVariation"
+    },
+    {
+        "displayText": "particle.imageSequenceFrameRate",
+        "type": "property",
+        "description": "image sequence frame rate on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.imageSequenceFrameRate"
+    },
+    {
+        "displayText": "particle.imageSequenceFrameRateVariation",
+        "type": "property",
+        "description": "image sequence frame rate variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.imageSequenceFrameRateVariation"
+    },
+    {
+        "displayText": "particle.imageSequenceAnimationMode",
+        "type": "property",
+        "description": "image sequence animation mode on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.imageSequenceAnimationMode"
+    },
+    {
+        "displayText": "particle.affectedByGravity",
+        "type": "property",
+        "description": "affected by gravity on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.affectedByGravity"
+    },
+    {
+        "displayText": "particle.particleDiesOnCollision",
+        "type": "property",
+        "description": "particle dies on collision on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleDiesOnCollision"
+    },
+    {
+        "displayText": "particle.accelerationX",
+        "type": "property",
+        "description": "acceleration x on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.accelerationX"
+    },
+    {
+        "displayText": "particle.accelerationY",
+        "type": "property",
+        "description": "acceleration y on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.accelerationY"
+    },
+    {
+        "displayText": "particle.accelerationZ",
+        "type": "property",
+        "description": "acceleration z on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.accelerationZ"
+    },
+    {
+        "displayText": "particle.dampingFactor",
+        "type": "property",
+        "description": "damping factor on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.dampingFactor"
+    },
+    {
+        "displayText": "particle.particleMass",
+        "type": "property",
+        "description": "particle mass on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleMass"
+    },
+    {
+        "displayText": "particle.particleMassVariation",
+        "type": "property",
+        "description": "particle mass variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleMassVariation"
+    },
+    {
+        "displayText": "particle.particleCharge",
+        "type": "property",
+        "description": "particle charge on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleCharge"
+    },
+    {
+        "displayText": "particle.particleChargeVariation",
+        "type": "property",
+        "description": "particle charge variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleChargeVariation"
+    },
+    {
+        "displayText": "particle.particleBounceVariation",
+        "type": "property",
+        "description": "particle bounce on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleBounce"
+    },
+    {
+        "displayText": "particle.particleFriction",
+        "type": "property",
+        "description": "particle friction on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleFriction"
+    },
+    {
+        "displayText": "particle.particleFrictionVariation",
+        "type": "property",
+        "description": "particle friction variation on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.particleFrictionVariation"
+    },
+    {
+        "displayText": "particle.blendMode",
+        "type": "property",
+        "description": "blend mode on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.blendMode"
+    },
+    {
+        "displayText": "particle.orientationMode",
+        "type": "property",
+        "description": "orientation mode on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.orientationMode"
+    },
+    {
+        "displayText": "particle.sortingMode",
+        "type": "property",
+        "description": "sorting mode on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.sortingMode"
+    },
+    {
+        "displayText": "particle.lightingEnabled",
+        "type": "property",
+        "description": "lighting enabled on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.lightingEnabled"
+    },
+    {
+        "displayText": "particle.blackPassEnabled",
+        "type": "property",
+        "description": "black pass enabled on particle",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/newParticleSystem",
+        "snippet": "particle.blackPassEnabled"
+    },
+    {
+        "displayText": "sceneKit.moveSceneKitToFront()",
+        "type": "function",
+        "description": "move scene kit layer to front",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/moveSceneKitToFront",
+        "snippet": "sceneKit.moveSceneKitToFront()"
+    },
+    {
+        "displayText": "sceneKit.moveSceneKitToBack()",
+        "type": "function",
+        "description": "move scene kit layer to back",
+        "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/moveSceneKitToBack",
+        "snippet": "sceneKit.moveSceneKitToBack()"
+    },
+]
