@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-sceneKitPlugin",
   "main": "./lib/main",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "Scene Kit Plugin autocomplete package",
   "keywords": [
     "lua",
