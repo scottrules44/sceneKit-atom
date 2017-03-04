@@ -1,9 +1,9 @@
-# Corona Autocomplete
+# Scene Kit Autocomplete
 
-An [Atom](https://atom.io) [autocomplete-plus](https://github.com/atom/autocomplete-plus) provider for [Corona SDK](https://coronalabs.com/products/corona-sdk/).
+Adds autocomplete to the [Scene Kit](https://marketplace.coronalabs.com/plugin/scene-kit) plugin for [Corona SDK](https://coronalabs.com)
 
-![](https://raw.githubusercontent.com/coronalabs/CoronaSDK-AtomPlugin/master/demo.gif)
+For more info visit the [documentation](https://scotth.tech/sceneKit/)
 
 ## Installation
 
-You can install the package through Atom's package manager or just run `apm install autocomplete-corona` in your terminal.
+You can install the package through Atom's package manager or just run `apm install autocomplete-sceneKit` in your terminal.
