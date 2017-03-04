@@ -985,5 +985,5 @@
         "description": "move scene kit layer to back",
         "descriptionMoreUrl": "http:\/\/scotth.tech\/sceneKit\/moveSceneKitToBack",
         "snippet": "sceneKit.moveSceneKitToBack()"
-    },
+    }
 ]
